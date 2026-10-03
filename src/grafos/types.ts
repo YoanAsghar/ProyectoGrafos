@@ -84,5 +84,5 @@ export interface Step {
   stack: string[]
   circuit: string[]
   usedEdges: string[]
-  text: string // explicación en español de este paso
+  text: string // explicación de este paso
 }
